@@ -2,8 +2,7 @@
 In an effort to understand and optimize Coca-Cola's sales and profitability, I embarked on a data analysis project using the company's 2022 sales data.
 
 Unlocking Coca-Cola's 2022 Sales and Profitability Insights with Data Analytics 🚀📊
-
-![Coca Cola](https://github.com/saivinay111234/Coca-Cola-Sales-Analysis/blob/main/Coca%20Cola%20Images.jpg)
+<img src="https://github.com/saivinay111234/Coca-Cola-Sales-Analysis/blob/main/Coca%20Cola%20Images.jpg" alt="Coca Cola" width="600">
 
 # Description:
 
